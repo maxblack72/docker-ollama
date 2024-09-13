@@ -17,3 +17,7 @@ docker-compose up -d
 ```sh
 docker-compose down
 ```
+
+# Models
+
+Models are saved in ~/.ollama (mac)

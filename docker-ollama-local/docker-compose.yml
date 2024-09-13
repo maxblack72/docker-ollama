@@ -6,7 +6,7 @@ services:
     volumes:
       - open-webui:/app/backend/data
     ports:
-      - ${OLLAMA_WEBUI_PORT-3001}:8080
+      - ${OLLAMA_WEBUI_PORT}:8080
     environment:
       - 'OLLAMA_API_BASE_URL=http://127.0.0.1:11434'
     extra_hosts:

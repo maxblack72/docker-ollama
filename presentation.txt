@@ -1,0 +1,9 @@
+1. setup open webui
+2. download a model 
+3. test a model 
+4. test a visual model
+5. for mac users: install ollama app, probably faster. 
+
+6. ChatGPT questions:
+
+- Fine tuning VS Knowledge base VS Retrieval-Augmented Generation (RAG)
