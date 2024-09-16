@@ -6,7 +6,6 @@ services:
     ports:
       - 11434:11434
     volumes:
-      # - /<YOUR LIBRARY FOLDER (any folder)>:/root/.ollama
       - ${LOCAL_LIBRARY_PATH}:/root/.ollama
   open-webui:
     container_name: open-webui
