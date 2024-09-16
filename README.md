@@ -1,16 +1,18 @@
 # docker-ollama
 
+## Reddit
 
-# Videos
+https://www.reddit.com/r/LocalLLaMA/
 
-## Mervin Praison - https://www.youtube.com/@MervinPraison
+## Videos
 
-EASILY Train Llama 3.1 and Upload to Ollama.com
+### Mervin Praison - https://www.youtube.com/@MervinPraison
+
+EASILY Train Llama 3.1 and Upload to Ollama.com (Fine tuning)
 
 https://www.youtube.com/watch?v=V6LDl3Vjq-A
 
-
-## AI JSON - https://www.youtube.com/@AIJasonZ
+### AI JSON - https://www.youtube.com/@AIJasonZ
 
 "How to give GPT my business knowledge?" - Knowledge embedding 101
 
